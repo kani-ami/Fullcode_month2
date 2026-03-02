@@ -30,3 +30,7 @@ def validate_pin(pin):
         else:
             return False
 print(validate_pin('123456'))
+
+
+
+print(validate_pin('123456'))
