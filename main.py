@@ -36,3 +36,9 @@ print(validate_pin('123456'))
 print(validate_pin('123456'))
 
 print(validate_pin('123456'))
+
+
+n = 8
+m = 9
+print(n+m)
+
